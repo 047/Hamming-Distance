@@ -1,0 +1,3 @@
+Suggestions for improvement:
+1 Support for cross-platform build with CMAKE.
+2 Add test cases with randomly generated data
